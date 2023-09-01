@@ -5,14 +5,15 @@ title: Weekly Plans
 
 # Weekly Plans
 ## Arthur Liu
-### Last Edited: August 30th, 2023
+### Last Edited: August 31st, 2023
 
 <br>
 
 ## Week 2
 **Monday (8/28)**: Update repository<br>
 **Tuesday (8/29)**: Work on lab journal<br>
-**Wednesday (8/30)**: Implementing Game of Life
+**Wednesday (8/30)**: Implementing JS Calculator<br>
+**Thursday (8/31)**: Preparing for live review
 
 <br>
 

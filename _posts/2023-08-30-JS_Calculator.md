@@ -52,33 +52,34 @@ HTML implementation of the calculator.
   }
 </style>
 
+
 <!-- Add a container for the animation -->
 <div id="animation">
   <div class="calculator-container">
       <!--result-->
-      <div class="calculator-output" id="output">0</div>
+      <div class="calculator-output" id="output"><p style="color: black">0</p></div>
       <!--row 1-->
-      <div class="calculator-number">1</div>
-      <div class="calculator-number">2</div>
-      <div class="calculator-number">3</div>
-      <div class="calculator-operation">+</div>
+      <div class="calculator-number"><p style="color: black">1</p></div>
+      <div class="calculator-number"><p style="color: black">2</p></div>
+      <div class="calculator-number"><p style="color: black">3</p></div>
+      <div class="calculator-operation"><p style="color: black">+</p></div>
       <!--row 2-->
-      <div class="calculator-number">4</div>
-      <div class="calculator-number">5</div>
-      <div class="calculator-number">6</div>
-      <div class="calculator-operation">-</div>
+      <div class="calculator-number"><p style="color: black">4</p></div>
+      <div class="calculator-number"><p style="color: black">5</p></div>
+      <div class="calculator-number"><p style="color: black">6</p></div>
+      <div class="calculator-operation"><p style="color: black">-</p></div>
       <!--row 3-->
-      <div class="calculator-number">7</div>
-      <div class="calculator-number">8</div>
-      <div class="calculator-number">9</div>
-      <div class="calculator-operation">*</div>
+      <div class="calculator-number"><p style="color: black">7</p></div>
+      <div class="calculator-number"><p style="color: black">8</p></div>
+      <div class="calculator-number"><p style="color: black">9</p></div>
+      <div class="calculator-operation"><p style="color: black">*</p></div>
       <!--row 4-->
-      <div class="calculator-clear">A/C</div>
-      <div class="calculator-number">0</div>
-      <div class="calculator-number">.</div>
-      <div class="calculator-operation">/</div>
+      <div class="calculator-clear"><p style="color: black">A/C</p></div>
+      <div class="calculator-number"><p style="color: black">0</p></div>
+      <div class="calculator-number"><p style="color: black">.</p></div>
+      <div class="calculator-operation"><p style="color: black">/</p></div>
       <div class="calculator-root">sqrt</div>
-      <div class="calculator-equals">=</div>
+      <div class="calculator-equals"><p style="color: black">=</p></div>
   </div>
 </div>
 
