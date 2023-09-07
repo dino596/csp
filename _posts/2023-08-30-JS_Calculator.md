@@ -78,7 +78,8 @@ HTML implementation of the calculator.
       <div class="calculator-number"><p style="color: black">0</p></div>
       <div class="calculator-number"><p style="color: black">.</p></div>
       <div class="calculator-operation"><p style="color: black">/</p></div>
-      <div class="calculator-root">sqrt</div>
+      <div class="calculator-operation"><p style="color: black">^</p></div>
+      <div class="calculator-root"><p>&Sqrt; </p></div>
       <div class="calculator-equals"><p style="color: black">=</p></div>
   </div>
 </div>
@@ -167,6 +168,9 @@ function calculate (first, second) { // function to calculate the result of the 
         case "/":
             result = first / second;
             break;
+        case "^":
+            result = first ** second;
+            break;
         default: 
             break;
     }
@@ -174,7 +178,8 @@ function calculate (first, second) { // function to calculate the result of the 
 }
 
 function squareroot (first) {
-    return Math.sqrt(first);
+    output.innerHTML = Math.sqrt(first).toString();
+    nextReady = true;
 }
 
 // Equals button listener

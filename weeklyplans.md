@@ -9,11 +9,20 @@ title: Weekly Plans
 
 <br>
 
+## Week 3
+**Tuesday (9/5)**: Prepare for live review<br>
+**Wednesday (9/6)**: Worked on JS Tables with jquery and Python Tricks<br>
+**<u>Thursday (9/7)</u>**: Live Review<br>
+**Friday (9/8)**: work on JS output with objects
+
+<br>
+
 ## Week 2
 **Monday (8/28)**: Update repository<br>
 **Tuesday (8/29)**: Work on lab journal<br>
 **Wednesday (8/30)**: Implementing JS Calculator<br>
-**Thursday (8/31)**: Preparing for live review
+**Thursday (8/31)**: Preparing for live review<br>
+**<u>Friday (9/1)</u>**: Live review
 
 <br>
 
