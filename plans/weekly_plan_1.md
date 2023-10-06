@@ -5,7 +5,6 @@ courses: { compsci: {week: 1} }
 type: plans
 ---
 
-<br> <br> <br> <br>
 **Monday (8/21)**: Finish tools setup<br>
 **Tuesday (8/22)**: Customize blog and prepare for live review<br>
 **<u>Wednesday (8/23)</u>**: Live review<br>

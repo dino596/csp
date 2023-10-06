@@ -5,7 +5,6 @@ courses: { compsci: {week: 3}}
 type: plans
 ---
 
-<br> <br> <br> <br>
 **Tuesday (9/5)**: Prepare for live review<br>
 **Wednesday (9/6)**: Worked on JS Tables with jquery and Python Tricks<br>
 **Thursday (9/7)**: Prepare for live review<br>
