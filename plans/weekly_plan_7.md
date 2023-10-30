@@ -9,4 +9,4 @@ type: plans
 **Tuesday (9/26)**: talked about designing and planning the Passion Project<br>
 **Wednesday (9/27)**: learned Data Abstraction<br>
 **Thursday (9/28)**: learned Algorithms<br>
-**Friday (9/29)**: 
+**Friday (9/29)**: learned APIs and worked on ideation video
