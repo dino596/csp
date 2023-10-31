@@ -42,7 +42,39 @@ As a dedicated backend programmer, I played a pivotal role in enhancing the syne
 
 ## College Board Quiz Notes
 
+### Questions I Needed Help On
 
+**Question 3:** Which of the following would be the best use of citizen science?
+I had to search up what citizen science was, and Google gave me "the collection and analysis of data relating to the natural world by members of the general public, typically as part of a collaborative project with professional scientists."
+Based on that knowledge, I chose C: "An experiment that requires data measurements to be taken in many different locations."
+
+**Question 6:** Which of the following best describes the role of the Internet Engineering Task Force (IETF)?
+I had to search up IETF, which led me to this: "The Internet Engineering Task Force (IETF) is a standards organization for the Internet and is responsible for the technical standards that make up the Internet protocol suite (TCP/IP)."
+Based on this, I chose A, which is "Developing standards and protocols for Internet communication."
+
+**Question 24:** Which of the following statements about pair encoding is true?
+I did not know the difference between lossless and lossy transformation, and after searching it up, I have learned that the difference is that lossy reduces file size by permanently removing some of the original data, and lossless reduces file size by removing unnecessary metadata.
+Because of that, I chose C: "Byte pair encoding is an example of a lossless transformation because an encoded string can be restored to its original version."
+
+**Question 51:** Which of the following is an example of symmetric encryption?
+Symmetric encryption is defined as "using a single key to encrypt and decrypt."
+I used this information to pick B: "Finn and Gwen develop a system that maps each letter of the alphabet to a unique symbol using a secret key. Finn uses the key to write a message to Gwen where each letter is replaced corresponding symbol. Gwen uses the key to map each symbol back to the original letter."
+
+**Question 64:** Which of the following statements describe how cloud computing has affected Internet communication?
+I searched up cloud computing, which gave me "delivery of computing services-including servers, storage, databases, networking, software, analytics, and intelligence."
+As a result, I picked B and C, which were "cloud computing has helped enhance collaboration," and "cloud computing has introduced new data-security concerns."
+
+### Questions That I Got Wrong
+
+**Question 35:** A musician is creating a song using audio samples. Which of the following actions will minimize the risk of a copyright violation when creating sample-based music?
+I originally picked C: "using samples from nondigital sound sources (vinyl records, tapes, etc.)" because I thought this would reduce the risk of a copyright violation. However, the correct answer was D: "using samples published with a no-rights-reserved Creative Commons license," since Creative Commons licenses can be used by creators of digital music to specify how the samples can be used by others, and a no-rights-reserved license allows others to freely make use of the samples.
+
+**Question 43:** An online retailer uses an algorithm to sort a list of n items by price. The table below shows the approximate number of steps the algorithm takes to sort lists of different sizes. Based on the values in the table, which of the following best characterizes the algorithm for very large values of n ?
+I picked B: "the algorithm runs, but not in a reasonable time," because I thought n^2 was not efficient especially for very large values, but according to College Board it is A: "the algorithms runs in a reasonable time," since n^2 is a polynomial, meaning it is reasonable.
+
+**Question 60:** Which of the following are ways in which a programmer can use abstraction to manage the complexity of a program?
+Instead of picking D: "Replacing several lines of documentation with a single line of documentation name1, name2, name 3, and name 4 with a list of strings
+called names," i picked "replacing longer variable names  with shorter variable names to reduce typing errors," since I thought shorter variable names would help reduce typos and the complexity of the program. However, the correct answer was D since creating data abstraction may make it easier for a programmer to manage the complexity.
 
 ## Trimester 1 Reflection
 
